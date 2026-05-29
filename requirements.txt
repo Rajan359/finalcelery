@@ -1,0 +1,13 @@
+pyodbc
+SQLAlchemy
+fastapi
+uvicorn
+sqlalchemy
+pyodbc
+celery    
+redis
+sqlalchemy
+pymysql
+python-dotenv
+#  coomand :- celery -A tasks worker --pool=solo --loglevel=info
+#  command :-uvicorn main:app --reload   
